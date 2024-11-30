@@ -1,0 +1,8 @@
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: linear-gradient(180deg, rgb(236, 155, 42),rgb(255, 255, 255),rgb(0, 180,0));
+}
